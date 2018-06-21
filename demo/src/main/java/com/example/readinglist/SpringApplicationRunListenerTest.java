@@ -8,9 +8,6 @@ import org.springframework.core.Ordered;
 import org.springframework.core.env.ConfigurableEnvironment;
 import org.springframework.stereotype.Service;
 
-/**
- * Created by elizhou on 2017/12/21.
- */
 public class SpringApplicationRunListenerTest implements SpringApplicationRunListener, Ordered, ApplicationListener {
 
     @Override

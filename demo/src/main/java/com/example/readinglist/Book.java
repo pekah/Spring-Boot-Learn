@@ -5,9 +5,6 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-/**
- * Created by elizhou on 2017/12/15.
- */
 @Entity
 public class Book {
 
