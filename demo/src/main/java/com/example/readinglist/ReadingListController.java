@@ -9,9 +9,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import java.util.List;
 
-/**
- * Created by elizhou on 2017/12/15.
- */
 @Controller
 @RequestMapping("/")
 public class ReadingListController {
